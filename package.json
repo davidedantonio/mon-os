@@ -1,0 +1,27 @@
+{
+  "name": "mon-os",
+  "version": "0.0.1",
+  "description": "",
+  "main": "mon-os.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "standard && node mon-os.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidedantonio/mon-os.git"
+  },
+  "author": "Davide D'Antonio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidedantonio/mon-os/issues"
+  },
+  "homepage": "https://github.com/davidedantonio/mon-os#readme",
+  "dependencies": {
+    "terminal-kit": "^1.26.4"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1",
+    "tap": "^12.0.1"
+  }
+}
