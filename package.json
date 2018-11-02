@@ -5,7 +5,7 @@
   "main": "mon-os.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "standard && node mon-os.js"
+    "start": "standard && node index.js"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/davidedantonio/mon-os#readme",
   "dependencies": {
-    "terminal-kit": "^1.26.4"
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.8"
   },
   "devDependencies": {
     "standard": "^12.0.1",
