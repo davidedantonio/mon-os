@@ -1,7 +1,7 @@
 {
   "name": "mon-os",
   "version": "0.0.1",
-  "description": "",
+  "description": "A graphical activity monitor for the command line writter in Node.js",
   "main": "mon-os.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/davidedantonio/mon-os.git"
   },
-  "author": "Davide D'Antonio",
+  "author": "Davide D'Antonio <davide.dantonio@webeetle.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/davidedantonio/mon-os/issues"
